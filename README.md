@@ -20,3 +20,7 @@ Minimax algorithm with 30% randomness. AI can choose a random spot with 30% prob
 ### 3. Impossible:
 Minimax algorithm with alpha-beta pruning for optimization of minimax algorithm as it reduces the time complexity by pruning nodes in the minimax tree (abstract).
 Score to a terminal state is assigned with +- depth of that state which accounts for the closness of this terminal state to the current state. Closser terminal states means faster winning move.
+
+## Resources: 
+1. https://www.freecodecamp.org/news/how-to-make-your-tic-tac-toe-game-unbeatable-by-using-the-minimax-algorithm-9d690bad4b37/
+2. https://github.com/nehakalbande/chess-engine
