@@ -27,7 +27,7 @@ var winning_combos = [
     [0,5,10,15],
     [3,6,9,12]
 ];
-var origBoard = [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0];
+var origBoard = [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0];
 
 //getting the palyer_mark & opponent_mark and ai_level (difficulty) & setting up names in scoreboard
 function get_data(opponent){
@@ -177,7 +177,7 @@ function toss()
 
 function reset()
 {
-    origBoard = [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0];
+    origBoard = [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0];
     cells.forEach((cell) => {
         cell.innerHTML = "";
         cell.style.backgroundColor = "";
