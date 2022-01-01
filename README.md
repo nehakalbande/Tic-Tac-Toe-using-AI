@@ -5,7 +5,7 @@ Heuristic/Evaluation function is such that it chooses the move that makes fastes
 ### Features: ✨
 
 1. User-friendly UI/UX with very smooth sliding animations.
-2. Choose your own marker (X/O).
+2. Choose your own marker **(X/O)** .
 3. 2 modes - **Play against AI 🤖** or **Play against a Friend 🙋🏻‍♂️**.
 4. **3 difficulty levels** for playing against AI.
 5. Number of matches played, timer and scoreboard with the playing player highlighted.
